@@ -1,0 +1,9 @@
+CS5 Gold/Black: Homework 0 Problem 0
+Filename: hw0pr0.py
+Name: Paul Burke
+Problem description: Reading and response
+
+Excerpt from "Does Your Language Shape How You Think?" by Guy Deutscher, NYTimes, 8/26/2010
+URL: https://www.nytimes.com/2010/08/29/magazine/29language-t.html
+
+I thought this article was super interesting. It made me think about how these geographical or egocentric languages were shaped in the first place. For example, the speakers of the "remote Australian aboriginal tongue", Guugu Yimithirr probably had a high incentive to know where they were at all times, as I would guess that historically they would be out in the Australian wilderness much of the time and need to know how to get home. But when I think about this idea more, when languages were being constructed most people were living in the wilderness. So maybe my idea evolves into the languages which over time had less need for global awareness of their position developed the egocentric coordinates such as left and right.
