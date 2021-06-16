@@ -1,0 +1,26 @@
+# CS5 Gold/Black: Homework 0 Problem 3
+# Filename: hw0pr3.txt
+# Name: Paul Burke
+# Problem description: Picobot empty room
+
+# STATE 0 :: go to west-most point in diamond
+
+0 **x* -> W 0       # go W
+0 x*W* -> N 0       # move up one
+0 N*Wx -> S 0       # move down one
+0 NxWS -> E 1       # made it, go to 1
+
+# STATE 1 :: go N if open; if N blocked switch to S2
+
+1 x*** -> N 1       # go N
+1 N*** -> X 2       # hit top, go to 2
+
+# STATE 2: go S if open; if S blocked move E and switch to S1
+
+2 ***x -> S 2       # go S
+2 xE*S -> N 3       # climb a step (blocked ES)
+2 *x*S -> E 1       # hit bottom, go E
+
+# STATE 3: climb a step
+
+3 **** -> E 1       # move over to next column, go N

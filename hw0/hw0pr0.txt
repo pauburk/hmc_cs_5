@@ -1,5 +1,5 @@
 CS5 Gold/Black: Homework 0 Problem 0
-Filename: hw0pr0.py
+Filename: hw0pr0.txt
 Name: Paul Burke
 Problem description: Reading and response
 URL: https://www.nytimes.com/2010/08/29/magazine/29language-t.html

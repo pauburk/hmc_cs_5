@@ -1,0 +1,26 @@
+# CS5 Gold/Black: Homework 0 Problem 4
+# Filename: hw0pr4.txt
+# Name: Paul Burke
+# Problem description: Picobot maze
+
+# inspired by the tips on the page for this assignment
+
+# state 0 "facing North"
+0 xE** -> N 0 # "corridor rule"
+0 *x** -> E 1 # "intersection rule"
+0 NE** -> X 2 # "dead end rule"
+
+# state 1 "facing East"
+1 *x*S -> E 1 # "corridor rule"
+1 ***x -> S 2 # "intersection rule"
+1 *E*S -> X 3 # "dead end rule"
+
+# state 2 "facing South"
+2 **Wx -> S 2 # "corridor rule"
+2 **x* -> W 3 # "intersection rule"
+2 **WS -> X 0 # "dead end rule"
+
+# state 3 "facing West"
+3 N*x* -> W 3 # "corridor rule"
+3 x*** -> N 0 # "intersection rule"
+3 N*W* -> X 1 # "dead end rule"
