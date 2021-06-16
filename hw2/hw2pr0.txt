@@ -1,0 +1,10 @@
+CS5 Gold/Black: Homework 2 Problem 0
+Filename: hw2pr0.txt
+Name: Paul Burke
+Problem description: Reading and response
+URL: https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html
+
+
+I was most struck by the human players reaction: Mr. Jennings said "I had a great time and I would do it again in a heartbeat," and both players said that Watson's advantage in speedy button pushing was in fact, not necessarily an unfair advantage. When I think of AI beating humans at games, I generally don't think that the humans are super happy about it. But then when I think about the situation I guess it seems more reasonable - I mean everybody can acknowledge that Google is pretty much the best source of random information. Google would be pretty hard to compete against!
+
+I also saw a connection to the previous reading we did, where it was talking about how not needing causation for models. I think when Watson guesses Toronto for a U.S. city is a good example of this - Toronto is obviously not the answer because it is in Canada, but it fits the data well (or at least Watson thinks so).
