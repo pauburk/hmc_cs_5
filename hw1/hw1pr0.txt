@@ -1,0 +1,7 @@
+CS5 Gold/Black: Homework 1 Problem 0
+Filename: hw1pr0.py
+Name: Paul Burke
+Problem description: Reading and response
+URL: https://www.wired.com/2008/06/pb-theory/
+
+To talk about technological advancements since 2008, I recently read an article about the Google/Harvard brain tissue modeling. The dataset is 1.4 petabytes (1400 terabytes, or 1,400,000 gigabytes), and only covers approximately 1 cubic millimeter of human brain tissue. I feel like this puts the Cluster Exploratory (running hundreds of terabytes of storage) in perspective. But I do think that it fits the author's argument: "the new availability of huge amounts of data, along with the statistical tools to crunch these numbers, offers a whole new way of understanding the world." I also liked the analogy of Newtonian models --> quantum mechanics --> ?? because I just finished the course Modern Physics at my high school.
