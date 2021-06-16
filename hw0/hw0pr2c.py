@@ -1,4 +1,4 @@
-# CS5 Gold/Black: Problem 2c
+# CS5 Gold/Black: Homework 0 Problem 2c
 # Filename: hw0pr2c.py
 # Name: Paul Burke
 # Problem description: RPS using control structures
@@ -33,15 +33,18 @@ def rps():
     # inputs
 
     user_in = input("\nChoose your weapon: ")
-    comp_in = random.choice(["rock", "paper", "scissors"])
+    user_in = user_in.lower() # makes the user's input lower case
 
-    while user_in not in ["rock", "paper", "scissors", "r", "p", "s"]:
+    while user_in not in ["rock", "paper", "scissors", "r", "p", "s"]: # check that user input is valid
         print("Please enter a valid input.", end = " ")
         user_in = input("Choose your weapon: ")
+        user_in = user_in.lower() # makes the user's input lower case
 
-    if user_in == "r": user_in = "rock" # so I can type in "r" instead of "rock" when testing
+    if user_in == "r": user_in = "rock" # so I can type in "r" instead of "rock"
     if user_in == "p": user_in = "paper"
     if user_in == "s": user_in = "scissors"
+
+    comp_in = random.choice(["rock", "paper", "scissors"])
 
     sleep(1)
     print("You chose", user_in)

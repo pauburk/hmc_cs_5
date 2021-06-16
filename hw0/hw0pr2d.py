@@ -1,4 +1,4 @@
-# CS5 Gold/Black: Problem 2d
+# CS5 Gold/Black: Homework 0 Problem 2d
 # Filename: hw0pr2d.py
 # Name: Paul Burke
 # Problem description: RPS using data
