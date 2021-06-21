@@ -1,0 +1,7 @@
+CS5 Gold/Black: Homework 4 Problem 0
+Filename: hw4pr0.txt
+Name: Paul Burke
+Problem description: Reading and response
+URL: https://www.nytimes.com/1996/12/01/magazine/little-bug-big-bang.html
+
+One of the things which I thought was interesting was that the section of code which was left running for 40 seconds during flight only  because it made it easier to restart the program was the fault of the catastrophic failure. I can identify with that, because I feel like as a programmer I often do the same thing – that is, add something janky to fix a problem, when the better solution would be to find the root of the problem and address that; also I feel like the time saving aspect of just letting that run for 40 seconds so that we don't have to restart is a very attractive idea. It's all about finding the fastest way to do things, right? We wouldn't want to make something slow when it could be faster. So I guess this is very obvious but in hindsight just making sure to consider what could happen because of the shortcut idea, and also when transferring the code from the old rockets make sure that it will still work.
