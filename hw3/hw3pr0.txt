@@ -1,0 +1,11 @@
+CS5 Gold/Black: Homework 3 Problem 0
+Filename: hw3pr0.txt
+Name: Paul Burke
+Problem description: Reading and response
+URL: https://www.nytimes.com/2014/02/16/opinion/sunday/is-the-universe-a-simulation.html
+
+Um...this is recursion. If we are in a simulation, and the theory is that in the "real world," "they" are sufficiently advanced to simulate "our" universe, then once "we" become sufficiently advanced "we" would be able to simulate other universes. And so it would go forever and ever. Is that really feasible??
+
+Also the anomalies in the computer simulations being transferrable to the real universe seems VERY far-fetched to me like seriously?? Like really??
+
+I don't know how I would react if I found out that I was living in a simulation - but I would guess that I wouldn't do anything different. I mean even the question "living in a simulation" says that we are living, right? I wouldn't want to change my life just because it was part of a simulation, I would want to go on living.
