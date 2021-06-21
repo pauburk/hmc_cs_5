@@ -1,0 +1,36 @@
+# CS5 Gold/Black: Homework 0 Problem 6
+# Filename: hw0pr6.txt
+# Name: Paul Burke
+# Problem description: Picobot map 4
+
+# STATE 0/1 : up/down move E on bottom
+
+0 x*** -> N 0
+0 N*** -> X 1
+
+1 ***x -> S 1
+
+1 *xxS -> E 3
+1 *E*S -> X 2
+1 *xWS -> E 3
+
+
+# STATE 2 :  facing North
+2 xE** -> N 2 # corridor rule
+2 *x** -> E 3 # intersection rule
+2 NE** -> X 4 # dead end rule
+
+# STATE 3 : facing East
+3 *x*S -> X 0
+3 ***x -> S 4 # intersection rule
+3 *E*S -> X 0 # dead end rule
+
+# STATE 4 : facing South
+4 **Wx -> S 4 # corridor rule
+4 **x* -> W 5 # intersection rule
+4 **WS -> X 0 # dead end rule
+
+# STATE 5 : facing West
+5 N*x* -> W 5 # corridor rule
+5 x*** -> N 2 # intersection rule
+5 N*W* -> X 3 # dead end rule
