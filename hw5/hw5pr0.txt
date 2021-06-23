@@ -1,0 +1,5 @@
+CS5 Gold/Black: Homework 5 Problem 0
+Filename: hw5pr0.txt
+Name: Paul Burke
+Problem description: Reading and response
+URL:
