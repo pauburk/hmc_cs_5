@@ -2,4 +2,11 @@ CS5 Gold/Black: Homework 5 Problem 0
 Filename: hw5pr0.txt
 Name: Paul Burke
 Problem description: Reading and response
-URL:
+URL: https://www.nytimes.com/2019/10/21/science/quantum-computer-physics-qubits.html
+
+100 qubits could hold 2^100 states which is 1.26 * 10^30, a thirty-one digit long number (also known as a nonillion).
+280 qubits could hold 2^280 states which is 1.94 * 10^84, an eighty-five digit long number (also known as a septenvigintillion).
+
+My favorite is the one from Dario Gil: "Classical computers manipulate bits with blistering speed. Quantum computers manipulate qubits with exquisite control, allowing for the interference of information, like waves on a pond, to amplify the answers we seek in a sea of possibilities." The NYTimes article was more about the current state of the development of quantum computers, and only discussed briefly how they work. I found the ones written by Hartmut Neven, Greg Kuperberg, David Bacon, and David Reilly to be completely useless because they either talked about parallel universes or just said that QC is exotic and richer and ephemeral and better than classical computing.
+
+Why I liked Dario Gil's is because it talked about something new to me, interference, and it used an analogy to help me understand the new topic in very simple terms. I also thought the comparison of speedy bits and controlled qubits was helpful and made sense based on what I had learned in the article.
