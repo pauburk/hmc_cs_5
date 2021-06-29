@@ -1,0 +1,14 @@
+# CS5 Gold/Black: Homework 6 Problem 2
+# Filename: hw6pr2.txt
+# Name: Paul Burke
+# Problem description: Hmmm Power!
+
+00 read r1          # get number from user to r1
+01 read r2          # ditto, for r2
+02 setn r3 1        # set r3 to 1
+03 jeqzn r2 07      # if r2 == 0 jump to output
+04 mul r3 r3 r1     # r3 = r3 * r1
+05 addn r2 -1       # count down 1
+06 jumpn 03         # loop back
+07 write r3         # print output
+08 halt             # stop

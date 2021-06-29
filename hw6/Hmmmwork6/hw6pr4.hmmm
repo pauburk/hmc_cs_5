@@ -1,0 +1,16 @@
+# hw6 pr4 "recursive power"
+#
+# Name(s): 
+#
+# Hmmm...
+#
+# This is a placeholder - you'll replace this code...
+#   gold:  see the hw6pr4 description for starter code (power)
+#  black:  see the hw6pr4 description for more (the "towers" challenge)
+#
+
+00 read r1          # get number from user to r1
+01 read r2          # ditto, for r2
+02 mul r3 r1 r2     # r3 = r1 * r2
+03 write r3         # print what's in r3
+04 halt             # stop.

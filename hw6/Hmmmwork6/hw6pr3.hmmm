@@ -1,0 +1,21 @@
+# CS5 Gold/Black: Homework 6 Problem 3
+# Filename: hw6pr3.txt
+# Name: Paul Burke
+# Problem description: Fibonacci Flier
+
+# This is a placeholder whose code you'll replace:
+00 read r1          # get number from user to r1
+01 setn r2 1        # set r2 to 1
+02 setn r3 1        # set r3 to 1
+03 write r2         # print r2
+04 write r3         # print r3
+
+05 addn r1 -2
+06 jeqzn r1 13      # if r1 == 0 stop
+07 add r4 r2 r3     # set r4 to r2 + r3
+08 copy r2 r3       # set r2 to r3
+09 copy r3 r4       # set r3 to r4
+10 write r3         # print what's in r3
+11 addn r1 -1       # go down 1
+12 jumpn 06         # loop back
+13 halt             # stop

@@ -1,0 +1,25 @@
+# CS5 Gold/Black: Homework 6 Problem 1b
+# Filename: hw6pr1b.txt
+# Name: Paul Burke
+# Problem description: Random-number generator
+
+00 read r1      # input a
+01 read r2      # input c
+02 read r3      # input m
+03 read r4      # input X_0
+04 read r5      # input N
+
+05 mul r4 r4 r1 # a * Xn
+06 add r4 r4 r2 # a * Xn + c
+07 mod r4 r4 r3 # (a * Xn + c) % m
+08 write r4     # output X_n+1
+09 addn r5 -1   # loop down -1
+10 jgtzn r5 05  # jump to line 05 if N > 0
+11 halt
+
+
+# a = 21
+# c = 3
+# m = 100
+# X_0 = 42
+# N = 100

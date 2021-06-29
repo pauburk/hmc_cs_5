@@ -1,0 +1,14 @@
+# Example1 is an example program that 
+#   1) asks the user for two inputs
+#   2) computes the product of the inputs
+#   3) prints out the result (with write)
+#   4) stops
+
+00 read r1          # get number from user to r1
+01 read r2          # ditto, for r2
+02 mul r3 r1 r2     # r3 = r1 * r2
+03 write r3         # print what's in r3
+04 halt             # stop
+
+
+

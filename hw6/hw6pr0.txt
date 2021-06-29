@@ -1,0 +1,9 @@
+CS5 Gold/Black: Homework 6 Problem 0
+Filename: hw6pr0.txt
+Name: Paul Burke
+Problem description: Reading and response
+URL: https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+
+Having personally just started an Instagram account for my photography, I can identify with the starting conclusions of the article. I started it a couple of months ago, and since then have gone through phases of trying to get more and more followers faster, spending hours figuring out the best hashtags, realizing that I don't want to follow a bunch of random people and subsequently unfollowing a lot of them, calming down a little, but now back to where we started with a slightly different understanding of things. So I found it interesting to see my mostly un-developed thoughts about addiction and the attention economy written down in this article.
+
+I also found it interesting to learn about the pull-to-refresh mechanism, because I definitely do use that. It made me think of all the times when Instagram has been slow and I've quit the app and restarted just to try and get it to work.

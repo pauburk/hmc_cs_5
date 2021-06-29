@@ -1,0 +1,12 @@
+# CS5 Gold/Black: Homework 6 Problem 1a
+# Filename: hw6pr1a.txt
+# Name: Paul Burke
+# Problem description: Cubic countdown
+
+00 read r1          # get number from user to r1
+01 mul r2 r1 r1     # cube r1
+02 mul r1 r2 r1     # cube r1
+03 write r1         # print the value of r1
+04 addn r1 -1       # subtract 1 from r1
+05 jgtzn r1 03      # jump to line 03 if r1 > 0
+06 halt             # terminate at r1 == 0
