@@ -1,0 +1,7 @@
+CS5 Gold/Black: Homework 9 Problem 0
+Filename: hw9pr0.txt
+Name: Paul Burke
+Problem description: Reading and response
+URL: https://worldif.economist.com/article/12123/horseless-driverless
+
+I haven't really thought much about self-driving cars before, and when I did only in terms of "oh that would be awesome" or "then we could all start at the same time when the light turns green." But this article brought up a lot of super interesting points which were new to me. One of the more interesting ones was how many cars would be taken off the roads if every car was self driving. That by sharing, we could reduce the number of cars on the road by 80%. I also thought the prediction that "I don’t want to share the road with robots" would change to "I don’t want to share the road with other human drivers" was initially funny but then made a lot of sense. And yes, I agree the Waymo cars are too timid! (I live in Los Altos so I see a fair number of them)
