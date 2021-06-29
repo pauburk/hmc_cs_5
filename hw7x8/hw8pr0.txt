@@ -1,0 +1,7 @@
+CS5 Gold/Black: Homework 8 Problem 0
+Filename: hw8pr0.txt
+Name: Paul Burke
+Problem description: Reading and response
+URL: https://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html
+
+I found it interesting that Anupam Datta (great last name for a researcher) suggested that all the algorithms should be "designed from scratch to be aware of values and not discriminate," because in my experience with CS and machine learning (even the article previously mentioned "black boxes") this seems like a really challenging task. Is it even possible? If you wanted the data to reflect on society, then there would be bias, but if you wanted the data to be undiscriminatory and unbiased, then it wouldn't reflect society. And also, I would argue that if you are wanting to do something to combat discrimination, there would probably be more tangible and impactful projects than trying to fix algorithms. However, I thought the point about how the algorithms and for example, the ads for highly-paid exec positions reinforced the bais was true and something I hadn't really thought much about before. So it's not completely useless to try and fix the algorithms rather than trying to fix the root problem, but I still think trying to fix the root problem would be better.
