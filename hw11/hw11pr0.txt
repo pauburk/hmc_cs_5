@@ -1,0 +1,9 @@
+CS5 Gold/Black: Homework 11 Problem 0
+Filename: hw11pr0.txt
+Name: Paul Burke
+Problem description: Reading and response
+URL: https://www.wsj.com/articles/SB10001424052702304337404579209980222399924
+
+I thought this was an interesting article to compare to the one about Watson and jeopardy. It seems like the professionals have similar feelings when being beaten by a machine in either chess or jeopardy. But in jeopardy, it was more about how the professionals were participating in the journey of improving machines, while in this chess article it was talking about how the machines were helping the humans improve. I thought this was an interesting contrast, especially because I don't think that the two ideas are exclusive, but rather more like a beneficial cycle.
+
+Another thing I thought was interesting was qualifying the "machine-ness" of a human player, or the "human-ness" of a machine's playing. I would bet that if a machine played more like a human and less like a machine (whatever that means), the human players would have a better time responding to it. I mean, the machine is trained against human players and knows what to expect, and has it's own moves and blah blah blah but the human has never played against a machine, only other humans, and is not used to unconventional strategies and must come up with on-the-fly responses. So I think that if a machine could be taught to mimic a player better, then I would guess that the humans would do better. But maybe the human strategy is just inferior (which I guess it is now that I think about it), so maybe that is synonymous with making the machine easier to beat. So maybe humans just need to become more like machines to get better at chess.
