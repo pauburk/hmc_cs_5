@@ -1,0 +1,6 @@
+CS5 Gold/Black: Final Project
+Filename: starter.txt
+Name: Paul Burke
+Problem description: Picobot using genetic algoritms
+
+No partners. Probably going to replicate 2 other maps (diamond and one after diamond). No idea what else I might come up with in the process, but those are my plans as of the moment.

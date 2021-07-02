@@ -1,0 +1,4 @@
+CS5 Gold/Black: Final Project
+Filename: milestone.txt
+Name: Paul Burke
+Problem description: Picobot using genetic algoritms
