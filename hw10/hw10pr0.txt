@@ -1,0 +1,9 @@
+CS5 Gold/Black: Homework 10 Problem 0
+Filename: hw10pr0.txt
+Name: Paul Burke
+Problem description: Reading and response
+URL: https://www.nytimes.com/2015/03/08/opinion/sunday/if-an-algorithm-wrote-this-how-would-you-even-know.html
+
+Having AIs that can write human-sounding poems, articles, even books is something that seems quite scary to me. Just the fact that not knowing what you read was written by a human or a machine, and specifically what the purpose (possibly malicious) was behind the piece of writing. Like in terms of breaking news and whatnot I feel like it's fine to have a computer written article or news headline but like in terms of books I don't like the idea. I LOVE to read, and just the idea that a computer could be behind what I'm reading is quite scary and sad. I feel like there is something very human about books, and especially characters - I mean the author spends so much time on it (all of this is not to say that I'm going to become an English major because that's actually my least favorite subject, but I do really appreciate a good author). The sad thing is, I would guess that if I encountered a computer written book in ten years, I probably wouldn't be able to tell the difference because it was so well done, and that makes me sad. How will we know who/what wrote everything? Like you could make laws and regulations, but those are easily broken. I don't like it.
+
+(I got 4 out of 6 right in the quiz).
