@@ -2,3 +2,5 @@ CS5 Gold/Black: Final Project
 Filename: milestone.txt
 Name: Paul Burke
 Problem description: Picobot using genetic algoritms
+
+I'm very happy with how the project has gone so far, I've had a lot of fun trying new and crazy ideas out. I'm especially proud of my authentic picobot simulator in Terminal with colors! I have realized that in the past 3 weeks I've become focused on being as short and concise as possible when writing Python, so as of 1 hour ago I've been working on making my code more readable but still organized. As I said, I'm very happy with how my project is turning out. It works! You can run it and it will run the genetic algoritms and whatnot and export to files and simulate the thing (of course there are still more features to add, however!).

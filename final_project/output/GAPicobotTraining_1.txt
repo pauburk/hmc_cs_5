@@ -1,0 +1,123 @@
+GAPicobotTraining_3.txt
+
+HYPERPARAMETERS:
+	Map : MAP2 (diamond)
+	Width : 25
+	Height : 25
+	Number of states : 5
+	Population size : 200
+	Number of generations : 25
+	Number of trials : 5
+	Number of steps per trial: 2000
+	Probability of mutation : 0.1
+	% of programs extracted for crossover : 0.1
+	# of programs extracted for crossover : 20
+	# of programs created during crossover : 180
+
+
+Running genetic algoritms...
+
+Generation 1/25:
+	avg score = 0.0548
+	max score = 0.2808
+
+Generation 2/25:
+	avg score = 0.0781
+	max score = 0.2672
+
+Generation 3/25:
+	avg score = 0.0965
+	max score = 0.4166
+
+Generation 4/25:
+	avg score = 0.1743
+	max score = 0.4030
+
+Generation 5/25:
+	avg score = 0.3145
+	max score = 0.4234
+
+Generation 6/25:
+	avg score = 0.3189
+	max score = 0.4596
+
+Generation 7/25:
+	avg score = 0.3308
+	max score = 0.4860
+
+Generation 8/25:
+	avg score = 0.3765
+	max score = 0.5411
+
+Generation 9/25:
+	avg score = 0.4350
+	max score = 0.5457
+
+Generation 10/25:
+	avg score = 0.4555
+	max score = 0.5592
+
+Generation 11/25:
+	avg score = 0.4875
+	max score = 0.5630
+
+Generation 12/25:
+	avg score = 0.5387
+	max score = 0.5645
+
+Generation 13/25:
+	avg score = 0.5391
+	max score = 0.5608
+
+Generation 14/25:
+	avg score = 0.5398
+	max score = 0.5675
+
+Generation 15/25:
+	avg score = 0.5445
+	max score = 0.5675
+
+Generation 16/25:
+	avg score = 0.5353
+	max score = 0.5691
+
+Generation 17/25:
+	avg score = 0.5360
+	max score = 0.5713
+
+Generation 18/25:
+	avg score = 0.5457
+	max score = 0.5766
+
+Generation 19/25:
+	avg score = 0.5427
+	max score = 0.5751
+
+Generation 20/25:
+	avg score = 0.5370
+	max score = 0.5721
+
+Generation 21/25:
+	avg score = 0.5442
+	max score = 0.5774
+
+Generation 22/25:
+	avg score = 0.5441
+	max score = 0.5774
+
+Generation 23/25:
+	avg score = 0.5361
+	max score = 0.5909
+
+Generation 24/25:
+	avg score = 0.5356
+	max score = 0.5879
+
+Generation 25/25:
+	avg score = 0.5423
+	max score = 0.5864
+
+==============================
+Best fitness score = 0.5879
+Time taken = 253 seconds
+==============================

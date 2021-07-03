@@ -60,7 +60,7 @@ def rwsteps(pos, low, high):
 
 
 def main():
-    
+
     print("***WARNING!!! IF HIGH - LOW < 8 GRAPHICS WILL NOT WORK***") # because I want to print Bed and Bathroom
 
     # input lower bound
